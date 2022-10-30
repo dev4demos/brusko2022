@@ -1,0 +1,16 @@
+{
+    "name": "drnkwati/brusko2022",
+    "description": "PHP - Тестовое задание 6",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+    {
+        "name": "Divine Nkwati",
+        "email": "drnkwati@gmail.com"
+    }],
+    "require":
+    {
+        "php": ">=7.0"
+    },
+    "minimum-stability": "dev"
+}
