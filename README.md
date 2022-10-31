@@ -36,6 +36,9 @@ http://127.0.0.1:7070/
 Вы должны увидеть главный экран.
 
 ![Screenshot dashboard brusko](public/img/screenshot-dashboard-brusko.png?raw=true "Dashboard brusko")
+![Screenshot palindrome brusko](public/img/screenshot-palindrome-brusko.png?raw=true "Palindrome brusko")
+![Screenshot files brusko](public/img/screenshot-files-brusko.png?raw=true "Files brusko")
+![Screenshot migrate brusko](public/img/screenshot-migrate-brusko.png?raw=true "Migrate brusko")
 
 ### Инструкции
 
