@@ -39,6 +39,7 @@ http://127.0.0.1:7070/
 ![Screenshot palindrome brusko](public/img/screenshot-palindrome-brusko.png?raw=true "Palindrome brusko")
 ![Screenshot files brusko](public/img/screenshot-files-brusko.png?raw=true "Files brusko")
 ![Screenshot migrate brusko](public/img/screenshot-migrate-brusko.png?raw=true "Migrate brusko")
+![Screenshot 404 brusko](public/img/screenshot-404-brusko.png?raw=true "404 brusko")
 
 ### Инструкции
 
