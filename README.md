@@ -17,7 +17,7 @@ composer create-project drnkwati/brusko2022
 
 Чтобы загрузить с помощью git, выполните следующую команду:
 ```
-git clone git https://github.com/drnkwati/brusko2022.git
+git clone https://github.com/drnkwati/brusko2022.git
 ```
 
 Откройте свой терминал в корневой папке проекта.
